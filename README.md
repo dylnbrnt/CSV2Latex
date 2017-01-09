@@ -3,6 +3,9 @@ converts a csv file to a Latex Table format
 
 add in the csv file into debug folder
 
+##Permissions
+You don't need ask me for permission to use the contents of this project. I just request that you credit back to me amd that you NEVER charge any money for this software under any circumstances.
+
 ###update v1.0 08/10/16
 - read in file for processing added
 
