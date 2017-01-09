@@ -13,7 +13,7 @@ namespace CSV2Latex
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("CSV to Latex Table Formatter\nSaves to file and clipboard!");
+			Console.WriteLine ("CSV to Latex Table Formatter v2.1\nSaves to file and clipboard!");
 			Console.WriteLine("By Dylan Brunet\n");
 			Console.WriteLine("Provide path to csv file to process,\noutput .txt file will be placed in same location\n\n");
 
