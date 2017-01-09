@@ -18,5 +18,6 @@ add in the csv file into debug folder
 
 - latex table values added (was just the table header)
 
-	
+###update v2.1 09/01/17
+- updated console info for clearer instructions
 	
